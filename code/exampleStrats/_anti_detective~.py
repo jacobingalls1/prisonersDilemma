@@ -1,6 +1,9 @@
 import random
 
 
+#when detective is defecting 100% of the time, it is non exploitable
+#when detective is tit for tat, it is tit for tat
+
 def strategy(history, memory):  # gets optimal score against detective
     choice = 1  # this is the default/first turn choice
     if history.shape[1] == 0:
