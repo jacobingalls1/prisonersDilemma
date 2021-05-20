@@ -10,7 +10,6 @@ def strategy(history, memory):  # makes a weighted random choice from recent res
         # now make your move
         totals = [0, 0]
         LOOKBACK = 2  # number of responses to review
-        i = None
         for i in range(-1, -1 - LOOKBACK, -1):
             if history.shape[1] + i < 0:
                 break
