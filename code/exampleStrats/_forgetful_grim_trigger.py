@@ -1,5 +1,4 @@
 def strategy(history, memory):  # grim trigger that forgets grudge every once in a while
-    print(memory)
     wronged = False
     MEMORY_TIME = 10  # forgets grudge every this many turns
     if memory is None:
