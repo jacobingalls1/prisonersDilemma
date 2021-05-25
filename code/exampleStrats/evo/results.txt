@@ -1,0 +1,300 @@
+33.gene.npy (P1)  VS.  _anti_ftft (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C 
+Final score for 33.gene.npy: 1.5073170731707317
+Final score for _anti_ftft: 3.995121951219512
+
+33.gene.npy (P1)  VS.  _anti_detective~ (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 33.gene.npy: 2.9726027397260273
+Final score for _anti_detective~: 3.0182648401826486
+
+33.gene.npy (P1)  VS.  _blank (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 33.gene.npy: 3.0
+Final score for _blank: 3.0
+
+33.gene.npy (P1)  VS.  _delayedTitForTat (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 33.gene.npy: 3.0
+Final score for _delayedTitForTat: 3.0
+
+33.gene.npy (P1)  VS.  _weighted_random (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 33.gene.npy: 3.0
+Final score for _weighted_random: 3.0
+
+33.gene.npy (P1)  VS.  _opposite_recent_weighted (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for 33.gene.npy: 0.010676156583629894
+Final score for _opposite_recent_weighted: 4.99288256227758
+
+33.gene.npy (P1)  VS.  _contrarian (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for 33.gene.npy: 0.011363636363636364
+Final score for _contrarian: 4.992424242424242
+
+33.gene.npy (P1)  VS.  _average_tft (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 33.gene.npy: 3.0
+Final score for _average_tft: 3.0
+
+33.gene.npy (P1)  VS.  _love_trigger (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 33.gene.npy: 2.9857142857142858
+Final score for _love_trigger: 3.0095238095238095
+
+33.gene.npy (P1)  VS.  _forgetful_grim_trigger (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 33.gene.npy: 3.0
+Final score for _forgetful_grim_trigger: 3.0
+
+33.gene.npy (P1)  VS.  _recent_avg_tft (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 33.gene.npy: 3.0
+Final score for _recent_avg_tft: 3.0
+
+33.gene.npy (P1)  VS.  _grim_detective (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C D C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for 33.gene.npy: 0.043478260869565216
+Final score for _grim_detective: 4.971014492753623
+
+33.gene.npy (P1)  VS.  _recent_weighted (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 33.gene.npy: 3.0
+Final score for _recent_weighted: 3.0
+
+33.gene.npy (P1)  VS.  _autism (P2)
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 33.gene.npy: 3.0
+Final score for _autism: 3.0
+
+34.gene.npy (P1)  VS.  _anti_ftft (P2)
+D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C D D D D C D C D D C C D C D C D C D C C C D D D D C D D D D D C D D C D C D D D C C C D D D C C D D D D C D C D C D D D D C C C D D D C C C D D C D C D C D C D D D C C C D D D D C C D D D C D C D C C D D D D C C D D D D C C C D C D C D C D C D D D D C C C D D D C C D C D C D D D C C C D D D C C C D D D D D C D C D C D C C 
+C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C 
+Final score for 34.gene.npy: 2.36318407960199
+Final score for _anti_ftft: 2.2139303482587063
+
+34.gene.npy (P1)  VS.  _anti_detective~ (P2)
+D D D D C D D D D D D D C C C C C C C D D C C C C C C D D D D D D D D C C C C C C C C C C C C C C C C D D D D D D C C C C D D D D D D C C C C C C C D D D D C C C D C D D D D D D C D C C C C C D D D D C C C D C D D D D D D C D C C C C D D D D D C C C D C C D C D D D C D C C C C D D D C D C D C D C C D C D D D C D C C C D D D D C D C D C D C C D C D D D C D C C C D D C D C D D D C D C C D C D D D C C C C D D D C D C D D C D C C C D C D D D C C D C D D D C D C D D D D C C C D D D D D C C D C D D C C C D D D D C C D C D D D D C C C D C D C C C C D D D D C C C C D D D C C C D D 
+C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 34.gene.npy: 4.006896551724138
+Final score for _anti_detective~: 1.4551724137931035
+
+34.gene.npy (P1)  VS.  _blank (P2)
+D D D D D C C C C C C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C D D C D C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C C D C C C C D D D C D C D D C C C D D C D C D D C D C D C D C C D C D C C D C D C D D C D C D C D C D D C D C D D C C C D D C D C D C D C C D C D C D D C D C D C C D C D C D C D D C D C D C C D C D D C D C D C D C C D C D C D C D D C D C D D C D C 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 34.gene.npy: 4.2
+Final score for _blank: 1.2
+
+34.gene.npy (P1)  VS.  _delayedTitForTat (P2)
+D D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D D C C C C D D C C D D D D C C D D C D D D D D C D D D D C D D D D C C D D D C C D D D D C C D D C D C D D C D C D D C C D C D D C C C D D C C D C D D C C D D D C C D C D D C D D D C C D D D D C C D D C C C D D D D C D D C C D C D D C D C D D C D D C D D C C D D C C D D D D C C D D D C C D C D D C C D C D D C D D D C C D D C D C C D D C C D D D C D C D D C C C D D D 
+C D D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D D C C C C D D C C D D D D C C D D C D D D D D C D D D D C D D D D C C D D D C C D D D D C C D D C D C D D C D C D D C C D C D D C C C D D C C D C D D C C D D D C C D C D D C D D D C C D D D D C C D D C C C D D D D C D D C C D C D D C D C D D C D D C D D C C D D C C D D D D C C D D D C C D C D D C C D C D D C D D D C C D D C D C C D D C C D D D C D C D D C C C D D 
+Final score for 34.gene.npy: 2.168032786885246
+Final score for _delayedTitForTat: 2.1475409836065573
+
+34.gene.npy (P1)  VS.  _weighted_random (P2)
+D D D D D D D D D D D D D D D D D D C C C C C C C C C D C C C C C D D C C C C C C C C C C C C C D C D D C D C D C C C D D C D D D D C C C D D C D C D C D D C D C D C D D D D C D D D D D C C D C D D D D D D C C D D D C C D C D C D C C C C D D D C D C C C D D D D C C D D D D C C D D D D D C D C C D D D C D C C D D D C C C D D D D D D C C C D D D C C C D D D D C C C D C D D C D C D C D D D C C C C D D D C D C D D D D C C C D D D D D C C C D D C D C C D D D D D C C C C D D D C C C D D D C D C C D D D C D C C C D D D D C C C D D D D D C D D D D C C C C C D D D C C D C D D D D C C D D D D D C C C D D D D C C D C D D D C C D D D D D C C C D D D 
+C D D D D D D D D D D D D D D D D D D D D D D D D C C D C C D D C D D C D C D C C D D C D D D C C C D C C D D D C C C C D D C C C C C D C D C C C C C D D C C D C D D D D C D C C C D C D D C C C C C C D D C C D D C C C C D C D D C C D C D D D C D D C D D C D C D D D C D C D D C C D D C D D C D D D D D D C D C C D D C D D C C D D D C C D C D C C D C D C D C C D D D C D D D C D C C C C C D D D D D C D C D D D C D D C D D D C D C C C C D D C D D D C C D D D D C D D C C C D D C D D D C D C C C C D C D D D C D C D D C D D C D C D D C D C C D C D C C C D D D C C C D D C C D C C D C C D D C D D C C C D C D C C C C D C D D C C D D D D D D C D D D 
+Final score for 34.gene.npy: 2.1393188854489162
+Final score for _weighted_random: 2.0928792569659445
+
+34.gene.npy (P1)  VS.  _opposite_recent_weighted (P2)
+D D D D D C C C C C C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C D D D D D D D D C C C D C C C D D D C D D C D C D D D C D D D C C D C D C C D D D D C C D C D C D D D C C D D D C D D D D C D D C C C D D C C D C D C C D D C C C D D D D C D C D C D D D D C D D D C C D C C C C D D C C D D D C C D D C C D D D D C C D C D C D C C C C D D D C D D D D C C D C D C D D D D C C D D C C C D D C C D D D C C C D D D D C D D D C D D C 
+C C C C C C C D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D C C D D C C C D D C C D C C C C C D C C C D C C D C D D C C C D D D C C D D C C C D D C C D D C C C D D C C D D C C C D D C C D D D C D D D D C C C D D D D D D C C C D C C C C D C C D D D D C D D C C C C D D C C D D C C C C D C C D D D D D D D D C C C D C C C C D D D C C D C C C C D D C C D D C C D D C C C D D D C C C C C D C C D C C 
+Final score for 34.gene.npy: 2.978448275862069
+Final score for _opposite_recent_weighted: 1.5775862068965518
+
+34.gene.npy (P1)  VS.  _contrarian (P2)
+D D D D D C C C C C C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C D D D C C D D D C C D D C D C D D D D C D C D C D C D C D D D D C D C D C D C D C D C D D D D C D C D C D C D C D C D D D D C D C D C D C D C D C D D C D C D C D C D C D C D C D D C D C D C D C D C D C D C D D C D C D C D C D C D C D C D D C D C D C D C D C D C D C D D C D C D C D C D C D C D C D D C D C D C D C D 
+C C C C C C D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C D D C C C D D C C D C D C C C C D C D C D C D C D C C C C D C D C D C D C D C D C C C C D C D C D C D C D C D C C C C D C D C D C D C D C D C C D C D C D C D C D C D C D C C D C D C D C D C D C D C D C C D C D C D C D C D C D C D C C D C D C D C D C D C D C D C C D C D C D C D C D C D C D C C D C D C D C D 
+Final score for 34.gene.npy: 2.8666666666666667
+Final score for _contrarian: 1.4857142857142858
+
+34.gene.npy (P1)  VS.  _average_tft (P2)
+D D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D D C C D D D C C D D D C C D D D C C D D D D C D D D C C C D D D D C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C C D D D C C D D C C C D D D C C D D C C C D D D C C D D D C C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C C D D C C C D D D C C D D D C C D D D C C D D D C C D D D C C C D 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C C C C D D C C D D D C C D D D C C D D D C C D D D D C D D D C C C D D D D C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C C D D D C C D D C C C D D D C C D D C C C D D D C C D D D C C C D D D C C D D D C C D D D C C D D D C C D D D C C D D D C C C D D C C C D D D C C D D D C C D D D C C D D D C C D D D C C C 
+Final score for 34.gene.npy: 1.9608695652173913
+Final score for _average_tft: 2.3304347826086955
+
+34.gene.npy (P1)  VS.  _love_trigger (P2)
+D D D C D D D D D D D D C C C C C C C D D C C C C C C D D D D D D D D C C C C C C C C C C C C C C C C D C D D D D C D C D C D D D D C C C D C C C D C D C D D C C C D D D C D D D D C D C D C C D D D C D C D C C D D D D C D D C D C D C D D D D C D C D C D D C D C D D D C C C D D C D D D D C C D C D C C D C D C D C D C C D C D C D C C D C D D C C D C D D C C C C D D C D C D C D C C D C D C D C D D C D C D C D D C D C 
+D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 34.gene.npy: 3.952153110047847
+Final score for _love_trigger: 1.4880382775119618
+
+34.gene.npy (P1)  VS.  _forgetful_grim_trigger (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D C C C D D D D D D D D 
+C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D 
+Final score for 34.gene.npy: 1.52863436123348
+Final score for _forgetful_grim_trigger: 1.6607929515418502
+
+34.gene.npy (P1)  VS.  _recent_avg_tft (P2)
+D D D D D D D D D D D D D D D D D D C C C C C C C C C C D D D D D D D C C C C C C C C C C C C C C C C C D D C D C D D C C C C C D C D D D C C C C C C C C D D D D D C C C C C D D C D D D D C D C D C D D D D D D C D D D C D C D D D D D D C D C D D D D D D C D D D C D C D D D D C D C D C D D D D C D C D D D C D C D D D D C D C D C D D D C C D C D D D C D D D D D D C D C C D D D D C C D D D C D C D D C D D D 
+C D D D D D D D D D D D D D D D D D D D D D D D C C C C C C C C C D D D D D D D D C C C C C C C C C C C C C C C C C C D D D D C C C C C C C C C C C C C C C C C C C D D D D D D D D C C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for 34.gene.npy: 1.446078431372549
+Final score for _recent_avg_tft: 2.230392156862745
+
+34.gene.npy (P1)  VS.  _grim_detective (P2)
+D D D D C D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D D D D D C C C D D D C D D D D C C D D C D D D D D C D D D D D D D D D D D D C D C D D D D D D C C D D D D C D D D D D C C D D D D D D D C C C D D D C C D D D D C D D C D C D D D C C C D D D C C D D D D D C D C C D D D D C C C D D D D C C D D D D C D C D C D D D D C C C D D D C C C D D D D C D C D C D D D C C C D D D D C C C D D D D C C D C D D D D C C C D D D C C C D D D D D 
+C D C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for 34.gene.npy: 0.6265560165975104
+Final score for _grim_detective: 2.680497925311203
+
+34.gene.npy (P1)  VS.  _recent_weighted (P2)
+D D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D C D C C D D D C D D D D D C C D D C D D D D C D C D D D C D D D D D D C D D C C D D D D C C D D D C C D D D D C C D D C C D D D C D C D D D C C D D D C D C D D C C D D D C C C C D D C C D D D D C C D D D C D D D C C C C D D D C D D D C C C D D D C C D D D C C C D D D C C D D C C D D D D C C D D D C C C D D D C C D D D C C D D D C C D D D C C C D D D C C 
+C D D D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D D C C C C D D C C D D D D D C D D C C D D D C D C C D D D C D D D D D D D D C C C D D D C C C D D D C D D D D D C D D D C C D D C C C C D D C C C D D C D C C D C C C D D D C C C C D D C D D D D C C D D D D C D D C C C C D D D D C D D C C C D D D D C D D D D C C D D D D C C D D C C D D D D C C D D D C C C D D C C D D D C C D D D C C C D D C C C D D D C 
+Final score for 34.gene.npy: 2.2100840336134455
+Final score for _recent_weighted: 2.1260504201680672
+
+34.gene.npy (P1)  VS.  _autism (P2)
+D D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C D D D D D D D C C D C C C C D D D C C D C D C D D D D D D D D D C D D D D C D C D C C C D D D D C D D D C C D D D D C D D D C C D D D C D D D D C D C D D C D D D D D D C D C D D D D C D C D D C D C D D D D C D C D C D D C D C D D C D C D D C D C D D D C C D C D C D D C D C D D D C C D D D C D D C D C D D C D C D D D D C D C D C D D C D C D C C D C D C D D D D C D C D C C 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for 34.gene.npy: 0.6173913043478261
+Final score for _autism: 2.5956521739130434
+
+53.gene.npy (P1)  VS.  _anti_ftft (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D 
+Final score for 53.gene.npy: 3.0
+Final score for _anti_ftft: 0.5
+
+53.gene.npy (P1)  VS.  _anti_detective~ (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 53.gene.npy: 4.962441314553991
+Final score for _anti_detective~: 0.009389671361502348
+
+53.gene.npy (P1)  VS.  _blank (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 53.gene.npy: 5.0
+Final score for _blank: 0.0
+
+53.gene.npy (P1)  VS.  _delayedTitForTat (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C C C D D D D D D D D D D D D D D D D D D D D D D D D C D C C D D D D C D C C D C C D C D D C D D D D C D D C C D C C D D D D D D C C D C D D C D D C D D D D C D D C D D C D D D D D D D C D D C D D D D D C D C D D C D D C D D C D D D D C D D C D D C D D D D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C C C D D D D D D D D D D D D D D D D D D D D D D D D C D C C D D D D C D C C D C C D C D D C D D D D C D D C C D C C D D D D D D C C D C D D C D D C D D D D C D D C D D C D D D D D D D C D D C D D D D D C D C D D C D D C D D C D D D D C D D C D D C D D D D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D 
+Final score for 53.gene.npy: 1.9192399049881235
+Final score for _delayedTitForTat: 1.9192399049881235
+
+53.gene.npy (P1)  VS.  _weighted_random (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C D C D D D D D D D D D D D D D D D D D D D D D D D D D D C D D C D D C C D C C D D C D D D C D D C D D C D C C C C D C C D C C D C C D C C D D C C D D C D D C D D C D D D D D D D D D D C D D C D D C D D C D D D C D D C C D C D D C D D C D D D D C D D C D D C C C D D D D C D D D C D D C D D D D D C D D D C C D D D D C D D D D D C C C D C C D D C D D D C D C D D D C D D C C D D D D D D D D C D D D D D C C D D D D D D D D D C D D C C D D C D D C C D D D D D C D D D D D D D C D 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C D C D D D D D D D D D D D D D D C D D D D D D D D C D D D D D D D D D D D D D C C D D C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C D D D D D D D C C D D D D D D D D D D C C D D D D D D D D C C D D D D D D D D C D D D C D D D D D D D D D D D C C D D D D D D D D D C D D D D C C C D C D C D D D C D D D D D D D D D C C D C D D D C D D D C D C D C D D D C D D C D D C D D C D D D D D D C C D D C D C D C D C D C D D C D D D D C C C D C C C C C D 
+Final score for 53.gene.npy: 1.462962962962963
+Final score for _weighted_random: 1.8518518518518519
+
+53.gene.npy (P1)  VS.  _opposite_recent_weighted (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 53.gene.npy: 5.0
+Final score for _opposite_recent_weighted: 0.0
+
+53.gene.npy (P1)  VS.  _contrarian (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 53.gene.npy: 5.0
+Final score for _contrarian: 0.0
+
+53.gene.npy (P1)  VS.  _average_tft (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C D C D C C C C C C C C D D D D D D D D D C D C C C D C D D D D D D D D D C C D C C D C C D C D D D D D D D D D D C D C C C C C D C D D D D D D D D C D C C C C C C C D D D D D D D D D D C D C C C C C D C D D D D D D D D D D C C C C C C C D C D D D D D D D D C D C C C C C C C D D D D D D D D D D C D C C C C C D C D D D D D D D D D D C C C C C C C D C D D D D D D D D C D C C C C C C C D D D 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for 53.gene.npy: 0.6460176991150443
+Final score for _average_tft: 2.482300884955752
+
+53.gene.npy (P1)  VS.  _love_trigger (P2)
+D D D D D D D D D D D D D D D D D D D D D D C C C C C C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C D C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+D D D D D D D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 53.gene.npy: 4.533613445378151
+Final score for _love_trigger: 0.226890756302521
+
+53.gene.npy (P1)  VS.  _forgetful_grim_trigger (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C D D D D D D D D D D D D C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C D C C D D D D D D C D D C D D C D D D D D D D C D D D D D D D D D D C D D C D D D D D D D C D D C D D C D C D D C D D C D D D D C D D C D D C D D D D C D D C D D C D D D D D C D C D D C D D C D D D D C D D C D D C D C D D C D D C D D C D C D D C D D C D D D D C D D C D D C D D D D D 
+C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C C C C C C C C C C C C C C C C C C C D D D D D D D D D C C C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D D D D D D D D D C C D 
+Final score for 53.gene.npy: 1.654320987654321
+Final score for _forgetful_grim_trigger: 1.7366255144032923
+
+53.gene.npy (P1)  VS.  _recent_avg_tft (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C D C D C C C C C C C C D D D D D D D D D C D C C C D C D D D D D D D C D C C C D C C C D D D D D D D D D D D D D D D D C D D C D D D D D D D C D C C D C C D C D D D D D D D D D D C D D C D D D D D D D D D D D D D C D D C D D C D C D D C D D C D D D D C C D C D C C D C D D C D D C D D C D C C C C C C C D C C D D C D D D D C D D C D D C D C D D C D D C D D D D C D D C D D C D D D D D D D 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C C C C C C C C C D D D D D D D D D D D D D D D D D D D D D D D D D D C C C C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C D D D D D D D D D D D D C C C C C C C C C C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for 53.gene.npy: 1.2
+Final score for _recent_avg_tft: 2.0
+
+53.gene.npy (P1)  VS.  _grim_detective (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D C D C D D C C C C C C C C C C C C C C C C C C C C C C C C D C D D D D D C D D D D D C D C D D D D D D D D D D D D D C D D C D C C D C D D D D D C D C D D C C C C D C D D C D D C D D C D C C D C D C C C C C D C D D C D D C D D C D C C D C D D C D D C D D D D C D D C D D C D C C D C D D C D D C D D C D C C D C D D C D C C D C D D C D D C D D C D C 
+C D C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for 53.gene.npy: 0.6534653465346535
+Final score for _grim_detective: 2.608910891089109
+
+53.gene.npy (P1)  VS.  _recent_weighted (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C D D C C C C C C C C C C C C C C C C C C C D C C C D C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C D D D C C C C C C C C C C C C C C C C C C C C C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+Final score for 53.gene.npy: 1.2372093023255815
+Final score for _recent_weighted: 1.2604651162790699
+
+53.gene.npy (P1)  VS.  _autism (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C D C D C C C C C C C C D D D D D D D D D C D C C C D C D D D D D D D D D C C D C C D C C D C D D D D D D D D D D C D C C C C C D C D D D D D D D D C D C C C C C D D D D D D D D D D D D C D D C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 53.gene.npy: 3.0634146341463415
+Final score for _autism: 1.0878048780487806
+
+26.gene.npy (P1)  VS.  _anti_ftft (P2)
+D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C C C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C 
+C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C 
+Final score for 26.gene.npy: 1.9147982062780269
+Final score for _anti_ftft: 2.408071748878924
+
+26.gene.npy (P1)  VS.  _anti_detective~ (P2)
+D D D D D D D D D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C D D C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 26.gene.npy: 4.662222222222222
+Final score for _anti_detective~: 0.4622222222222222
+
+26.gene.npy (P1)  VS.  _blank (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 26.gene.npy: 5.0
+Final score for _blank: 0.0
+
+26.gene.npy (P1)  VS.  _delayedTitForTat (P2)
+D D D D D C C C C C C C C C C C C C C C C C C C C C D C C D D D D D D D D D D D D D D D D D D D D D D C C C C D D C C C D D D D C C C C C C C D C D D D D C D D C D C C D C D D C D D D D C D C C D C D D C D C D D C D D C D C C C C D C D D C D C C D C D C C D C D D C D C D D C D C C D C D D C D C D D C D C C D C D C C D C D D C D C C D C D C C D C D D C D C D D C D C C D C D D C D C D D C D C C D C D C C D C D D C D C C D C D C C D C D D C D C D D C D C C D C D D C D C D D C 
+C D D D D D C C C C C C C C C C C C C C C C C C C C C D C C D D D D D D D D D D D D D D D D D D D D D D C C C C D D C C C D D D D C C C C C C C D C D D D D C D D C D C C D C D D C D D D D C D C C D C D D C D C D D C D D C D C C C C D C D D C D C C D C D C C D C D D C D C D D C D C C D C D D C D C D D C D C C D C D C C D C D D C D C C D C D C C D C D D C D C D D C D C C D C D D C D C D D C D C C D C D C C D C D D C D C C D C D C C D C D D C D C D D C D C C D C D D C D C D D 
+Final score for 26.gene.npy: 2.2594142259414225
+Final score for _delayedTitForTat: 2.2594142259414225
+
+26.gene.npy (P1)  VS.  _weighted_random (P2)
+D D D D D C C C D D D C C C C C D D D D D D D D D C C C C C C C C C C C C C C C C C C C C C C C C C C C D D C C C C D C C C C D C D D D D D C D D C D D D D C C C C D D C D C D D C C D C D C D D C D D C D C C D C D D C D C D D D D D D D D D C C D C D D D D C D D D D C C D D D C D C D D D C C C D D D D C C C D D C D D D D C D C D D D D D C C C D C D D D D D D D D D C C D D D C C C D D D C D D D D C C C C C D D D C D D 
+C D D D D D D D D D D D D D D C D C D C C C C D D D C C D D D C D C D D C C C C D C C D C C C D C D C D C D D C C C C D C D C C C D C C D C D D C D C D D D D D C C D D D D D C C D C D C C D C C D C D C D D D C C C D C C C C C D D D C C D D C D D C D D D C C C C C C C D C D D C D D D D D C C C C D D C D D D C C C C D C C C D C D D C C D D C C C D C C C D C C D D D D C D D C D C D D D C C D D D C D D C D C D D D D D C 
+Final score for 26.gene.npy: 2.219047619047619
+Final score for _weighted_random: 2.123809523809524
+
+26.gene.npy (P1)  VS.  _opposite_recent_weighted (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 26.gene.npy: 5.0
+Final score for _opposite_recent_weighted: 0.0
+
+26.gene.npy (P1)  VS.  _contrarian (P2)
+D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D 
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C 
+Final score for 26.gene.npy: 5.0
+Final score for _contrarian: 0.0
+
+26.gene.npy (P1)  VS.  _average_tft (P2)
+D D D D D C C C D D D C C C C C C D D D D D D D D D C D D D D D C C C C C D D D D D D D D D D D C C C C D C D C C C C C D C D C C C C C C C D C C D C D C C C C C C C D C D C C D D D D C D C C D C C C C D D D D C D D D D C C D C D C C D C D D C D C C D C D C C D C D D C D C D D C D C C C C D D C D C D D C D C C D C D C C D C D D C D C C D C D C C D C D D C D C D D C D C C D C D D C D C D D C D C C D C D C C D C 
+C D D D D D D D D D D D D D D D D C D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D C C C D C D C C D D D D C D C C D C C C C D D D D C D D D D D D D D D D C D C D D D D D C D C D C C D C D D C D C D D D D D C C C D D C D C D D C D C C D C D C C D C D D C D C C D C D C C D C D D C D C D D C D C C D C D D C D C D D C D C C D C D C C D 
+Final score for 26.gene.npy: 1.5314009661835748
+Final score for _average_tft: 2.6666666666666665
+

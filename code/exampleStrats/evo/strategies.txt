@@ -1,0 +1,15 @@
+_anti_detective~.py
+_anti_ftft.py
+_autism.py
+_average_tft.py
+_blank.py
+_contrarian.py
+_delayedTitForTat.py
+_forgetful_grim_trigger.py
+_grim_detective.py
+_love_trigger.py
+_opposite_recent_weighted.py
+_recent_avg_tft.py
+_recent_weighted.py
+strategies.txt
+_weighted_random.py
