@@ -155,7 +155,7 @@ def runGeneration(adversaries, genefiles, outFile):
 '''
 import time
 geneticOperator.populate(50, 'genepool')
-for i in range(100):
+for i in range(10000):
     t = time.time()
     r = runGeneration(STRATEGY_FOLDER, GENE_FOLDER, RESULTS_FILE)
     print('Gen %i took %i seconds with a score of: %f'%(i, time.time()-t, r))
