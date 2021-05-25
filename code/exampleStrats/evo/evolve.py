@@ -10,6 +10,8 @@ STRATEGY_FOLDER = "exampleStrats"
 RESULTS_FILE = "results.txt"
 GENE_FOLDER = "genepool"
 
+population = 25
+
 pointsArray = [[1, 5], [0, 3]]  # The i-j-th element of this array is how many points you receive if you do play i, and your opponent does play j.
 moveLabels = ["D", "C"]
 
@@ -154,7 +156,8 @@ def runGeneration(adversaries, genefiles, outFile):
     print("Done with everything! Results file written to " + RESULTS_FILE)
 '''
 import time
-# geneticOperator.populate(25, 'genepool')
+if population:
+    geneticOperator.populate(population, 'genepool')
 for i in range(10000):
     t = time.time()
     r = runGeneration(STRATEGY_FOLDER, GENE_FOLDER, RESULTS_FILE)

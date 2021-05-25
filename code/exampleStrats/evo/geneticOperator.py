@@ -2,7 +2,7 @@ import random
 import numpy as np
 
 IN_LAYER = 100#only use the last 50 turns 
-HIDDEN_LAYERS = [20]
+HIDDEN_LAYERS = [5,5]
 OUT_LAYER = 1
 THRESHHOLD = .5
 BIAS_SPEED = .01
@@ -59,8 +59,8 @@ class GeneticAgent:
     def jitter(self):
         layers = self.layers
         for i in range(len(layers)-1):
-            self.weights[i]+=np.random.randn(layers[i+1], layers[i])*WEIGHT_SPEED
-            self.biases[i]+=np.random.randn(layers[i+1], 1)*BIAS_SPEED
+            self.weights[i]+=np.random.randn(layers[i+1], layers[i])*WEIGHT_SPEED*random.choice([1,-1])
+            self.biases[i]+=np.random.randn(layers[i+1], 1)*BIAS_SPEED*random.choice([1,-1])
 
 def populate(numFiles, outDirectory):
     for i in range(numFiles):
