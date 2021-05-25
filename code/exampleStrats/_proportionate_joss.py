@@ -11,16 +11,14 @@ def strategy(history, memory):  # joss but frequency of defection depends on opp
 
     choice = 1
     if history.shape[1] == 0:
-        return 1, [1, 5, 0]  # memory is [unpunished_defections, unprovoked_defections, just_defected_unprovoked]
-    if random.random() < memory[0] / memory[1] or (history[1][-1] == 0 and memory[2] != 0):  # choosing to defect
+        return 1, [1, 2, 0]  # memory is [unpunished_defections, unprovoked_defections, just_defected_unprovoked]
+    if history[1][-1] == 0 and memory[2] == 0:  # defecting because opponent just defected unprovoked
         choice = 0
-        if memory[2] == 0:
-            memory[2] = 2  # cooperate for 2 turns unless I decide to randomly defect again
-        else:
-            memory[1] += 1
-            memory[0] += history[1][-1]
-
-        memory[2] = True
+    elif random.random() < (memory[0] / memory[1]):  # defecting randomly
+        choice = 0
+        memory[2] = 2  # cooperate for 2 turns unless I decide to randomly defect again
+        memory[1] += 1
+        memory[0] += history[1][-1]
     elif memory[2] > 0:
         if not history[1][-2]:
             memory[0] += history[1][-1]
