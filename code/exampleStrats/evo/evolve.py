@@ -154,7 +154,7 @@ def runGeneration(adversaries, genefiles, outFile):
     print("Done with everything! Results file written to " + RESULTS_FILE)
 '''
 import time
-geneticOperator.populate(10, 'genepool')
+geneticOperator.populate(50, 'genepool')
 for i in range(100):
     t = time.time()
     r = runGeneration(STRATEGY_FOLDER, GENE_FOLDER, RESULTS_FILE)
