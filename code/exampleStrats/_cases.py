@@ -2,7 +2,7 @@ def should_exploit(history, memory):  # exploit if it usually works
     should = True
     if memory[0][1] == 0:  # first time trying
         return True, memory
-    if memory[0][0] / memory[0][1] <= 0.5:
+    if memory[0][0] / memory[0][1] < 0.5:
         should = False
     return should, memory
 
@@ -11,8 +11,8 @@ def should_cooperate(history, memory):  # cooperate if it usually works
     should = True
     if memory[1][1] == 0:  # first time trying
         return True, memory
-    if memory[1][0] / memory[1][1] <= 0.5:
-        should = 0
+    if memory[1][0] / memory[1][1] < 0.5:
+        should = False
     return should, memory
 
 
