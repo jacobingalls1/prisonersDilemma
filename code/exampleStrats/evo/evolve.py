@@ -7,7 +7,7 @@ from geneticOperator import GeneticAgent
 import geneticOperator
 import sys
 
-STRATEGY_FOLDER = "exampleStrats"
+STRATEGY_FOLDER = "allStrats"
 RESULTS_FILE = "results.txt"
 GENE_FOLDER = sys.argv[1]
 LAYERS = [int(i) for i in sys.argv[2:]]
@@ -126,11 +126,7 @@ def runGeneration(adversaries, genefiles, outFile, LAYERS, gen):
 
     nextGen=[]
     for dna in DNA:
-        if scoreKeeper[dna] <= avg_score-.000000001:
-            pass
-            #print('deleting %s with score %f, lower than %f'%(dna, scoreKeeper[dna], avg_score))
-        else:
-            nextGen.append(GeneticAgent(GENE_FOLDER+'/'+dna, LAYERS))
+        print(dna, scoreKeeper[dna])
 
     for i in range(len(DNA)):
         c = random.choice(nextGen)
@@ -158,8 +154,6 @@ def runGeneration(adversaries, genefiles, outFile, LAYERS, gen):
     print("Done with everything! Results file written to " + RESULTS_FILE)
 '''
 import time
-if population:
-    geneticOperator.populate(population, GENE_FOLDER, LAYERS)
 for i in range(10000):
     t = time.time()
     r = runGeneration(STRATEGY_FOLDER, GENE_FOLDER, RESULTS_FILE, LAYERS, i)
