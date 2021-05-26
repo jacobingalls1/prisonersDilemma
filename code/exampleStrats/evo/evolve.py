@@ -5,10 +5,12 @@ import numpy as np
 import random
 from geneticOperator import GeneticAgent
 import geneticOperator
+import sys
 
 STRATEGY_FOLDER = "exampleStrats"
 RESULTS_FILE = "results.txt"
-GENE_FOLDER = "genepool"
+GENE_FOLDER = sys.argv[1]
+LAYERS = [int(i) for i in sys.argv[2:]]
 
 population = 25
 
@@ -44,8 +46,8 @@ def strategyMove(move):
         return move
 
 
-def runRound(pair):#(dna, strategy)
-    moduleA = GeneticAgent(GENE_FOLDER + '/' + pair[0])
+def runRound(pair, LAYERS):#(dna, strategy)
+    moduleA = GeneticAgent(GENE_FOLDER + '/' + pair[0], LAYERS)
     moduleB = importlib.import_module(STRATEGY_FOLDER + "." + pair[1])
     memoryA = None
     memoryB = None
@@ -94,8 +96,7 @@ def pad(stri, leng):
     return result
 
 
-def runGeneration(adversaries, genefiles, outFile):
-    print("Starting tournament, reading files from " + adversaries)
+def runGeneration(adversaries, genefiles, outFile, LAYERS, gen):
     scoreKeeper = {}
     STRATEGY_LIST = []
     DNA = []
@@ -117,7 +118,7 @@ def runGeneration(adversaries, genefiles, outFile):
             pairs.append((strategy, s))#(dna, strategy)
 
     for pair in pairs:
-        roundHistory = runRound(pair)
+        roundHistory = runRound(pair, LAYERS)
         scoresA, scoresB = tallyRoundScores(roundHistory)
         scoreKeeper[pair[0]] += scoresA
     #    scoreKeeper[pair[1]] += scoresB
@@ -126,13 +127,14 @@ def runGeneration(adversaries, genefiles, outFile):
     nextGen=[]
     for dna in DNA:
         if scoreKeeper[dna] <= avg_score-.000000001:
-            print('deleting %s with score %f, lower than %f'%(dna, scoreKeeper[dna], avg_score))
+            pass
+            #print('deleting %s with score %f, lower than %f'%(dna, scoreKeeper[dna], avg_score))
         else:
-            nextGen.append(GeneticAgent(GENE_FOLDER+'/'+dna))
+            nextGen.append(GeneticAgent(GENE_FOLDER+'/'+dna, LAYERS))
 
     for i in range(len(DNA)):
         c = random.choice(nextGen)
-        c.jitter()
+        c.jitter(gen)
         c.writeOut(genefiles+'/%i.npy'%i)
     return avg_score
         
@@ -157,10 +159,10 @@ def runGeneration(adversaries, genefiles, outFile):
 '''
 import time
 if population:
-    geneticOperator.populate(population, 'genepool')
+    geneticOperator.populate(population, GENE_FOLDER, LAYERS)
 for i in range(10000):
     t = time.time()
-    r = runGeneration(STRATEGY_FOLDER, GENE_FOLDER, RESULTS_FILE)
+    r = runGeneration(STRATEGY_FOLDER, GENE_FOLDER, RESULTS_FILE, LAYERS, i)
     print('Gen %i took %i seconds with a score of: %f'%(i, time.time()-t, r))
 
 

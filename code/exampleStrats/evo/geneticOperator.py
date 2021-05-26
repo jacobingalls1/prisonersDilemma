@@ -1,9 +1,6 @@
 import random
 import numpy as np
 
-IN_LAYER = 100#only use the last 50 turns 
-HIDDEN_LAYERS = [5,5]
-OUT_LAYER = 1
 THRESHHOLD = .5
 BIAS_SPEED = .01
 WEIGHT_SPEED = .01
@@ -13,10 +10,10 @@ def sigmoid(z):
     return 1/(1+np.exp(-z))
 
 class GeneticAgent:
-    def __init__(self, dna=None):
+    def __init__(self, dna=None, layers=None):
         self.weights = []
         self.biases = []
-        self.layers = [IN_LAYER]+HIDDEN_LAYERS+[OUT_LAYER]
+        self.layers = layers
         if dna:
             self.readIn(dna)
         else:
@@ -29,6 +26,7 @@ class GeneticAgent:
             self.biases.append(np.zeros((layers[i+1], 1)))
 
     def writeOut(self, outfile):
+        self.jitter(0)
         np.save(outfile, (self.weights, self.biases))
 
     def readIn(self, infile):
@@ -41,6 +39,7 @@ class GeneticAgent:
         return sigmoid(np.dot(self.weights[-1], Z)+self.biases[-1])
 
     def decide(self, history):
+        IN_LAYER = self.layers[0]
         X=np.zeros((IN_LAYER,1))+.5
         if history.shape[1]<IN_LAYER/2:
             for i in range(history.shape[1]):
@@ -56,15 +55,17 @@ class GeneticAgent:
     def strategy(self, history, memory):
         return self.decide(history), None
 
-    def jitter(self):
+    def jitter(self, gen):
+        LWEIGHT_SPEED=WEIGHT_SPEED/(round(gen*.01)+1)
+        LBIAS_SPEED=BIAS_SPEED/(round(gen*.01)+1)
         layers = self.layers
         for i in range(len(layers)-1):
-            self.weights[i]+=np.random.randn(layers[i+1], layers[i])*WEIGHT_SPEED*random.choice([1,-1])
-            self.biases[i]+=np.random.randn(layers[i+1], 1)*BIAS_SPEED*random.choice([1,-1])
+            self.weights[i]+=np.random.randn(layers[i+1], layers[i])*LWEIGHT_SPEED*random.choice([1,-1])
+            self.biases[i]+=np.random.randn(layers[i+1], 1)*random.choice([1,-1])*LBIAS_SPEED
 
-def populate(numFiles, outDirectory):
+def populate(numFiles, outDirectory, layers):
     for i in range(numFiles):
-        GeneticAgent().writeOut(outDirectory+'/'+str(i))
+        GeneticAgent(None, layers).writeOut(outDirectory+'/'+str(i))
 
 
 
